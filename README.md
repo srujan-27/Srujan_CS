@@ -74,9 +74,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/srujan-27/srujan-27/output/snake.svg" alt="Snake animation" />
 
 ###
 
