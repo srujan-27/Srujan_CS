@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science grad student at Quinnipiac University with a passion for development — whether it's building full-stack applications, designing robust backend systems, or deploying scalable services in the cloud</p>
+<p align="left">I'm a Computer Science grad student at Quinnipiac University with a passion for development — whether it's building full-stack applications, designing robust backend systems</p>
 
 ###
 
